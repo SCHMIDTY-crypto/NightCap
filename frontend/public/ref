@@ -1,0 +1,11 @@
+
+        border: 2px solid #6f00ff;
+        box-shadow: 0 0 5px #6f00ff, 0 0 25px #6f00ff;
+
+        background-image: url('https://media.istockphoto.com/photos/modern-futuristic-neon-lights-on-old-grunge-brick-wall-room-picture-id1174967858?k=6&m=1174967858&s=170667a&w=0&h=78N5qYimRICaX4Szviz55eUjYOg4DF-hwEBFt8MqhsQ=');
+        background-position: center;
+        background-size: cover;
+
+        background-image: url('https://media.istockphoto.com/photos/modern-futuristic-neon-lights-on-old-grunge-brick-wall-room-picture-id1174967858?k=6&m=1174967858&s=170667a&w=0&h=78N5qYimRICaX4Szviz55eUjYOg4DF-hwEBFt8MqhsQ=');
+        background-position: center;
+        background-size: cover;
